@@ -1,0 +1,3 @@
+﻿  Źródło.cpp
+e:\powtórka c++\wskazniki\wskazniki\źródło.cpp(13): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  Wskazniki.vcxproj -> E:\Powtórka C++\Wskazniki\Debug\Wskazniki.exe
